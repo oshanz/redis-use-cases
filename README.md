@@ -9,3 +9,5 @@ http://highscalability.com/blog/2014/9/8/how-twitter-uses-redis-to-scale-105tb-r
 http://www.paperplanes.de/2010/2/16/a_collection_of_redis_use_cases.html
 
 http://oldblog.antirez.com/post/take-advantage-of-redis-adding-it-to-your-stack.html
+
+http://www.redisgreen.net/blog/intermediate-redis/
